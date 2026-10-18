@@ -20,7 +20,7 @@ Ensure you have Python 3.x installed.
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/Gracyclub/krishna.git
+git clone https://github.com/Pardhu89068/krishna.git
 cd krishna
 pip install opencv-python numpy
 ```
